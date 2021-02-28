@@ -5,3 +5,5 @@ ZCZC  W00  10 L03  Github related
 ZCZC  W00  60 L22  Youtube: study, etc.
 ZCZC  W00  60 L21  VirtualBox: Install Debian
 ZCZC  W00  30 L08  Trying Linux basic commands
+ZCZC  W00  60 L04  Github Pages: settings, changes, etc
+ZCZC  W00  60 L06  Reading Silberchatz
