@@ -9,3 +9,6 @@ ZCZC  W00  60 L04  Github Pages: settings, changes, etc
 ZCZC  W00  60 L06  Reading Silberchatz
 ZCZC  W01  30 L05  GSGS Shell script
 ZCZC  W01  60 L13  Assignment #3: Trying basic linux commands, scripting, etc
+ZCZC  W01  30 L14  Assignment #4: Guest username
+ZCZC  W01  60 L15  Assignment #5: Git & Github Repos
+ZCZC  W01  1  L16  Assignment #6: Update mylog.txt with nano
