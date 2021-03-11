@@ -1,6 +1,5 @@
 #!/bin/bash
-# Cicak bin Kadal
-# Tue 13 Oct 2020 10:37:14 AM WIB
+# Alif Saddid
 
 FILES="my*.txt my*.sh"
 SHA="SHA256SUM"
@@ -19,6 +18,10 @@ gpg -o $SHA.asc -a -sb $SHA
 
 echo "gpg --verify $SHA.asc $SHA"
 gpg --verify $SHA.asc $SHA
+
+git add .
+git commit -m "OS211 alifsaddid"
+git push origin master
 
 exit 0
 
