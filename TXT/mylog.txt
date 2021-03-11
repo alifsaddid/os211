@@ -11,5 +11,8 @@ ZCZC  W01  30 L05  GSGS Shell script
 ZCZC  W01  60 L13  Assignment #3: Trying basic linux commands, scripting, etc
 ZCZC  W01  30 L14  Assignment #4: Guest username
 ZCZC  W01  60 L15  Assignment #5: Git & Github Repos
-ZCZC  W01  1  L16  Assignment #6: Update mylog.txt with nano
+ZCZC  W01   1 L16  Assignment #6: Update mylog.txt with nano
 ZCZC  W01  60 L17  Assignment #7: GSGS top 10 links
+ZCZC  W02 180 L02  Zoom related
+ZCZC  W02  90 L06  Reading Silberschatz Chapter 16
+ZCZC  W02  30 L07  Running Week02 Demo
