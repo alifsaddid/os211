@@ -28,6 +28,12 @@ for II in W?? ; do
 done
 popd
 
+rm -f $HOME/RESULT/fakeDODOL
+for II in $HOME/RESULT/myW*.tar.bz2.asc $HOME/RESULT/fakeDODOL ; do
+   echo "Check and move $II..."
+   [ -f $II ] && mv -f $II .
+done
+
 echo "rm -f $SHA $SHA.asc"
 rm -f $SHA $SHA.asc
 
@@ -51,4 +57,3 @@ exit 0
 
 # Mon Sep 28 21:05:04 WIB 2020
 # Tue 29 Sep 2020 11:02:39 AM WIB
-
