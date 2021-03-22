@@ -16,3 +16,6 @@ ZCZC  W01  60 L17  Assignment #7: GSGS top 10 links
 ZCZC  W02 180 L02  Zoom related
 ZCZC  W02  90 L06  Reading Silberschatz Chapter 16
 ZCZC  W02  30 L07  Running Week02 Demo
+ZCZC  W03 100 L02  Zoom related
+ZCZC  W03  60 L06  Reading Silberschatz
+ZCZC  W03  60 L07  Week03 Demo
