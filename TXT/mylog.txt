@@ -21,3 +21,4 @@ ZCZC  W03  60 L06  Reading Silberschatz
 ZCZC  W03  60 L07  Week03 Demo
 ZCZC  W04 100 L02  Zoom related
 ZCZC  W04 120 L07  Week04 Demo  
+ZCZC  W04  60 L06  Reading Silberschatz Main Memory
