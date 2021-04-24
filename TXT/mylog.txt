@@ -24,3 +24,6 @@ ZCZC  W04 120 L07  Week04 Demo
 ZCZC  W04  60 L06  Reading Silberschatz Main Memory
 ZCZC  W05 120 L07  Week05 Demo
 ZCZC  W05 100 L02  Zoom related
+ZCZC  W06 100 L02  Zoom related
+ZCZC  W06 180 L07  Week06 Demo
+ZCZC  W06  60 L06  Reading Silberschatz chapter 3 and 4
