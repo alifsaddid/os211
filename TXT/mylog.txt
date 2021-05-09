@@ -28,3 +28,5 @@ ZCZC  W06 100 L02  Zoom related
 ZCZC  W06 180 L07  Week06 Demo
 ZCZC  W06  60 L06  Reading Silberschatz chapter 3 and 4
 ZCZC  W07 100 L02  Zoom related
+ZCZC  W08 100 L02  Zoom related
+ZCZC  W08 120 L10  Assignments Week 08
